@@ -1,0 +1,16 @@
+<html>
+    <body>
+        <div>Hello ${userName},</div>
+ 		<br>
+       <div>
+            ${emailText}.
+        </div>
+		<br>
+        <div>
+            <img src="${readMailImageSRC}" height="1" width="1"/>
+        </div>
+        <div>
+            <a href="${unsubscribe}">Unsubscribe</a>
+        </div>
+    </body>
+</html>

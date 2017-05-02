@@ -1,0 +1,10 @@
+<html>
+    <body>
+        <div>Hello ${userName},</div>
+ 		<br>
+       <div>
+            A new Account has been created. Please login using password ${password}.
+        </div>
+		<br>
+    </body>
+</html>
